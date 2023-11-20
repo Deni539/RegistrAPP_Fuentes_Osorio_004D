@@ -1,4 +1,6 @@
 # RegistrAPP_Fuentes_Osorio_004D
+Experiencia 3
+
 Primero en la maquina local desinstalamos e instalamos nuevamente ionic
 desintalamos --> npm uninstall -g ionic
 instalamos --> npm install -g @ionic/cli@6
